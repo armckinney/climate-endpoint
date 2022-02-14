@@ -14,10 +14,10 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/Climate-Endpoint)
+![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/climate-endpoint)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/Climate-Endpoint)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/Climate-Endpoint)
+![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/climate-endpoint)
+![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/climate-endpoint)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
@@ -34,9 +34,9 @@ Version Author: Drew McKinney
     <br />
     <a href="https://climate-endpoint.herokuapp.com/" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/Climate-Endpoint/issues">Report Bug</a>
+    <a href="https://github.com/ARMcK-hub/climate-endpoint/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/Climate-Endpoint/issues">Request Feature</a>
+    <a href="https://github.com/ARMcK-hub/climate-endpoint/issues">Request Feature</a>
   </p>
 </p>
 
@@ -133,14 +133,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/Climate-Endpoint.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/Climate-Endpoint.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/Climate-Endpoint/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/Climate-Endpoint.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/Climate-Endpoint/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/Climate-Endpoint.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/Climate-Endpoint/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/Climate-Endpoint.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/Climate-Endpoint/issues
+[license-shield]: https://img.shields.io/github/license/ARMcK-hub/climate-endpoint.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/climate-endpoint.svg?style=flat
+[contributors-url]: https://github.com/ARMcK-hub/climate-endpoint/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/climate-endpoint.svg?style=flat
+[forks-url]: https://github.com/ARMcK-hub/climate-endpoint/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/climate-endpoint.svg?style=flat
+[stars-url]: https://github.com/ARMcK-hub/climate-endpoint/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/climate-endpoint.svg?style=flat
+[issues-url]: https://github.com/ARMcK-hub/climate-endpoint/issues
 [product-screenshot]: https://climatedataguide.ucar.edu/sites/default/files/styles/node_lightbox_display/public/key_figures/climate_data_set/PRISM_ppt_30yr_normal_4kmM2_annual.png?itok=UWLBBnGa
 
