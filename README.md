@@ -14,10 +14,10 @@ Version Author: Drew McKinney
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-![GitHub last commit](https://img.shields.io/github/last-commit/ARMcK-hub/climate-endpoint)
+![GitHub last commit](https://img.shields.io/github/last-commit/armckinney/climate-endpoint)
 [![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/ARMcK-hub/climate-endpoint)
-![GitHub repo size](https://img.shields.io/github/repo-size/ARMcK-hub/climate-endpoint)
+![GitHub top language](https://img.shields.io/github/languages/top/armckinney/climate-endpoint)
+![GitHub repo size](https://img.shields.io/github/repo-size/armckinney/climate-endpoint)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwestendfinancial.herokuapp.com%2F)
 
 <!-- PROJECT LOGO -->
@@ -34,9 +34,9 @@ Version Author: Drew McKinney
     <br />
     <a href="https://climate-endpoint.herokuapp.com/" target="_blank"><strong> >> Visit Demo >> </strong></a>
     <br />
-    <a href="https://github.com/ARMcK-hub/climate-endpoint/issues">Report Bug</a>
+    <a href="https://github.com/armckinney/climate-endpoint/issues">Report Bug</a>
     -
-    <a href="https://github.com/ARMcK-hub/climate-endpoint/issues">Request Feature</a>
+    <a href="https://github.com/armckinney/climate-endpoint/issues">Request Feature</a>
   </p>
 </p>
 
@@ -122,25 +122,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Stock -->
-[license-url]: https://github.com/ARMcK-hub/West-End-Financial/blob/master/LICENSE.txt
+[license-url]: https://github.com/armckinney/West-End-Financial/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/drew-mckinney/
 [email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat&colorB=555
 [email-url]: mailto:andrewryanmckinney@gmail.com
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat&colorB=555
-[github-url]: https://github.com/ARMcK-hub
+[github-url]: https://github.com/armckinney
 [languages-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat&colorB=555
 
 
 <!-- Project Dynamic -->
-[license-shield]: https://img.shields.io/github/license/ARMcK-hub/climate-endpoint.svg?style=flat
-[contributors-shield]: https://img.shields.io/github/contributors/ARMcK-hub/climate-endpoint.svg?style=flat
-[contributors-url]: https://github.com/ARMcK-hub/climate-endpoint/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARMcK-hub/climate-endpoint.svg?style=flat
-[forks-url]: https://github.com/ARMcK-hub/climate-endpoint/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARMcK-hub/climate-endpoint.svg?style=flat
-[stars-url]: https://github.com/ARMcK-hub/climate-endpoint/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARMcK-hub/climate-endpoint.svg?style=flat
-[issues-url]: https://github.com/ARMcK-hub/climate-endpoint/issues
+[license-shield]: https://img.shields.io/github/license/armckinney/climate-endpoint.svg?style=flat
+[contributors-shield]: https://img.shields.io/github/contributors/armckinney/climate-endpoint.svg?style=flat
+[contributors-url]: https://github.com/armckinney/climate-endpoint/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/armckinney/climate-endpoint.svg?style=flat
+[forks-url]: https://github.com/armckinney/climate-endpoint/network/members
+[stars-shield]: https://img.shields.io/github/stars/armckinney/climate-endpoint.svg?style=flat
+[stars-url]: https://github.com/armckinney/climate-endpoint/stargazers
+[issues-shield]: https://img.shields.io/github/issues/armckinney/climate-endpoint.svg?style=flat
+[issues-url]: https://github.com/armckinney/climate-endpoint/issues
 [product-screenshot]: https://climatedataguide.ucar.edu/sites/default/files/styles/node_lightbox_display/public/key_figures/climate_data_set/PRISM_ppt_30yr_normal_4kmM2_annual.png?itok=UWLBBnGa
 
